@@ -1,0 +1,9 @@
+{
+  "productName": "MyApp",
+  "directories": {
+    "output": "dist"
+  },
+  "win": {
+    "target": "nsis"
+  }
+}
